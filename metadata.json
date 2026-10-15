@@ -1,0 +1,7 @@
+{
+  "name": "Piano & Strings",
+  "description": "A high-converting, elegant website for Piano & Strings, a private music tutor in Richmond, London, specializing in piano, violin, viola, and cello lessons for all ages.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
